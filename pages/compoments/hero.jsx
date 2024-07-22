@@ -16,7 +16,7 @@ const Hero = () => {
           Get started a project
         </button>
       </div>
-      <img src="{hero-img}" alt="photo-hero" className="w-96 h-96" />
+      <img src="/images/hero-img.png" alt="photo-hero" className="w-96 h-96" />
     </div>
   );
 };
